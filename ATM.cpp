@@ -1,9 +1,3 @@
-/* 
-Demonte Thomas
-CIS247C
-ATM Application
-3/3/21
-*/
 
 // bring in our libraries
 #include <iostream>
